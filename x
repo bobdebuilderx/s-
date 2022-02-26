@@ -12,7 +12,9 @@ end)
 Tab1:Button("FLY (x)",function(bool)
     loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
 end)
-
+Tab1:Button("Speed (T)",function(bool)
+    loadstring(game:HttpGet("https://pastebin.com/raw/9KKhYaLm"))()
+end)
 local Tab2 = Window:Tab("clientside",true)
 
 Tab2:Button("Headless Client Sided",function(bool)
