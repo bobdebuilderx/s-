@@ -1,8 +1,7 @@
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mapple7777/UI-Librarys/main/UI-1/UI.lua"))()
 --local Whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/silentgod145/whitelist/main/whitelist",true))()
-
- local Window = Library:Create("X lock,"Made by GOING HUB")
+ local Window = Library:Create("X lock","made by GOINGHUB")
 
 local Tab1 = Window:Tab("замок",true)
 
